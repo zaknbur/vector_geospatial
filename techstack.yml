@@ -1,7 +1,8 @@
 repo_name: zaknbur/vector_geospatial
 report_id: bbc5ddddfbeeeb8ecf7e992e245e31ad
+version: 0.1
 repo_type: Public
-timestamp: '2023-11-23T15:33:10+00:00'
+timestamp: '2024-01-05T08:35:12+00:00'
 requested_by: acgeospatial
 provider: github
 branch: master
@@ -15,6 +16,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/zaknbur/vector_geospatial
   detection_source: Repo Metadata
 - name: Jupyter
   description: Multi-language interactive computing environments.
@@ -25,4 +27,5 @@ tools:
   category: Application Utilities
   sub_category: Data Science Notebooks
   image_url: https://img.stackshare.io/service/4190/fGBUdNf__400x400.jpg
+  detection_source_url: https://github.com/zaknbur/vector_geospatial
   detection_source: Repo Metadata
